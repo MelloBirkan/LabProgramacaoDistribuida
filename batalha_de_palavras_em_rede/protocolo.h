@@ -1,0 +1,23 @@
+#ifndef PROTOCOLO_H
+#define PROTOCOLO_H
+
+#define PORTA_PADRAO 7070
+#define TOTAL_RODADAS 5
+#define TEMPO_RODADA 10
+#define TIMEOUT_NOME 30
+
+#define TAM_LINHA 512
+#define TAM_NOME 32
+#define TAM_PALAVRA 64
+
+#define TIPO_MSG "MSG"
+#define TIPO_NOME "NOME"
+#define TIPO_AGUARDE "AGUARDE"
+#define TIPO_RODADA "RODADA"
+#define TIPO_RESULTADO "RESULTADO"
+#define TIPO_PLACAR "PLACAR"
+#define TIPO_FIM "FIM"
+#define TIPO_PALAVRA "PALAVRA"
+#define TIPO_TIMEOUT "TIMEOUT"
+
+#endif
