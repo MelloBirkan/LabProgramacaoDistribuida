@@ -65,5 +65,14 @@ build/
 dist/
 
 # Project-local executables
-batalha_de_palavras_em_rede/cliente
-batalha_de_palavras_em_rede/servidor
+lab01_cadastro_produtos/atividade
+lab02_batalha_de_palavras_em_rede/cliente
+lab02_batalha_de_palavras_em_rede/servidor
+lab03_mpi_soma_quadrados/soma_quadrados
+
+# ========================
+# AI Skills (local only)
+# ========================
+.claude/skills/
+.agents/skills/
+.compozy/
