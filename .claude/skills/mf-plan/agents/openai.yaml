@@ -1,0 +1,4 @@
+interface:
+  display_name: "MF Plan"
+  short_description: "Collaborative plans, tickets, and validation"
+  default_prompt: "Use $mf-plan to gather requirements, create a plan, break it into tickets, and validate implementation."
